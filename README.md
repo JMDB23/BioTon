@@ -16,3 +16,5 @@ Se integra *Soroban, el entorno de **contratos inteligentes de Stellar*, para:
 
 ## Características principales
 - 🌍 Registro de créditos de carbono generados por proyectos locales.
+
+- Para ver Landing Page descargue main y abrá index.html en cualquier navegador
